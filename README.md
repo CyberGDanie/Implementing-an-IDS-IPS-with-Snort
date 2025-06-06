@@ -6,3 +6,6 @@
 
 ![upgrade](https://github.com/user-attachments/assets/1d337ea7-70f8-4ada-abc1-c6e081578efc)
 
+2. Updated the depencecies.
+
+![dependency update](https://github.com/user-attachments/assets/337f93a9-7e5a-4a80-b9ca-68a909843d35)
